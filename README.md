@@ -1,4 +1,4 @@
-# package_name
+# Simple Package Template
 
 Description. 
 The package package_name is used to:
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Wander Vilhalva Domingos
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

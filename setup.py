@@ -9,9 +9,9 @@ with open("requirements.txt") as f:
 setup(
     name="package_name",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="Wander Vilhalva Domingos",
+    author_email="wandervilhalvadomingos@gmail.com",
+    description="Simple Package Template",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="my_github_repository_project_link"
